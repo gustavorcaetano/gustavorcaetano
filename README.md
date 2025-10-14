@@ -29,8 +29,8 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 ### 📊 Estatísticas do GitHub
 <div align="center">
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusrcaetano&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrcaetano&layout=compact&theme=tokyonight)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight)
 
 </div>
 
