@@ -2,7 +2,6 @@
 
 💻 **Desenvolvedor Full-Stack em formação**  
 🎓 Estudante de Informática do **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo IFSP Guarulhos**
-
 ✨ Apaixonado por design, animações e experiências web criativas  
 
 ---
