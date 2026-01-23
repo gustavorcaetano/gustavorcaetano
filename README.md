@@ -48,7 +48,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 ### 🌐 Onde me encontrar
 📧 **Email:** gusramoscaetano@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-💻 [Portfólio[([https://gusrcaetano.github.io](https://gustavorcaetano.github.io/meu-portfolio/projetos.html](https://gustavorcaetano.github.io/meu-portfolio/index.html#))
+💻 [Portfólio](https://gustavorcaetano.github.io/meu-portfolio/index.html#)
 
 ---
 
