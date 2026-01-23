@@ -1,4 +1,4 @@
-#  Olá, eu sou Gustavo Ramos Caetano
+#  **OLÁ, EU SOU O GUSTAVO RAMOS**
 
 💻 **Desenvolvedor Full-Stack em formação**  
 🎓 Estudante de Informática do **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP Guarulhos)**
@@ -6,7 +6,7 @@
 
 ---
 
-###  Sobre mim
+###  SOBRE MIM
 Sou um desenvolvedor em formação com experiência em **HTML**, **CSS**, **JavaScript**, **PHP** e noções de **Python** e **banco de dados (MySQL)**.  
 Tenho interesse em unir **criatividade e tecnologia**, criando soluções digitais bem estruturadas e agradáveis de usar.
 
@@ -15,7 +15,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ---
 
-###  Tecnologias e Ferramentas
+###  TECNOLOGIAS E FERRAMENTAS
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ---
 
-###  Estatísticas do GitHub
+###  ETATÍSTICAS DI **GitHub**
 <div align="center">
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight)
@@ -47,8 +47,8 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ###  Onde me encontrar
  **EMAIL:** gusramoscaetano@gmail.com  
- **LINKEDIN** [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
- **PORTIFÓLIO** [Portfólio](https://gustavorcaetano.github.io/meu-portfolio/index.html#)
+ **LINKEDIN:** [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+ **PORTIFÓLIO:** [Portfólio](https://gustavorcaetano.github.io/meu-portfolio/index.html#)
 
 ---
 
