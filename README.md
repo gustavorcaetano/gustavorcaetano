@@ -39,7 +39,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ---
 
-###  ETATÍSTICAS DI **GitHub**
+###  ESTATÍSTICAS DO **GitHub**
 <div align="center">
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight)
@@ -49,7 +49,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ---
 
-###  Onde me encontrar
+###  ONDE ME ENCONTRAR
  **EMAIL:** gusramoscaetano@gmail.com  
  **LINKEDIN:** [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
  **PORTIFÓLIO:** [Portfólio](https://gustavorcaetano.github.io/meu-portfolio/index.html#)
