@@ -7,7 +7,7 @@
 ---
 
 ###  SOBRE MIM
-Sou um desenvolvedor em formação com experiência em **HTML**, **CSS**, **JavaScript**, **PHP** e noções de **Python** e **banco de dados (MySQL)**.  
+Sou um desenvolvedor em formação com experiência em **HTML**, **CSS**, **JavaScript**, **PHP** e noções de **Python** e **banco de dados (MySQL e SUPABASE)**.  
 Tenho interesse em unir **criatividade e tecnologia**, criando soluções digitais bem estruturadas e agradáveis de usar.
 
 Gosto de **aprender continuamente** e transformar ideias em **projetos reais**.  
