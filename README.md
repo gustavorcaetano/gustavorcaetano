@@ -49,6 +49,10 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight) |
 
 <p align="center">
+  <img src="https://github-v-contributions.vercel.app/api?username=gustavorcaetano&theme=tokyonight" alt="Calendário 3D">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge" alt="Views">
 </p>
 
