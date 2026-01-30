@@ -43,7 +43,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 <div align="center">
 
 
-|  Contribuições e Status |  Recordes e Conquistas |
+|  CONTRIBUIÇÕES & STATUS |  RECORDES e CONQUISTAS |
 | :---: | :---: |
 | ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight) |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight) |
