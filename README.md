@@ -42,15 +42,15 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 ###  ESTATÍSTICAS DO **GitHub**
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge)
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight)
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-| Contribuições | Linguagens mais usadas |
+| 🛠️ Contribuições e Status | 🚀 Recordes e Conquistas |
 | :---: | :---: |
-| ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight) |
+| ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight) |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge" alt="Views">
+</p>
 
 </div>
 
