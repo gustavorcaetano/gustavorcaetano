@@ -39,20 +39,23 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ### ESTATÍSTICAS DO GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight" alt="Gustavo Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-| CONTRIBUIÇÕES & STATUS | RECORDES & CONQUISTAS |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight) |
-| ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight) | ![Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight" alt="GitHub Trophy" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-v-contributions.vercel.app/api?username=gustavorcaetano&theme=tokyonight" alt="Calendário 3D" />
+</p>
 
-![Calendário 3D](https://github-v-contributions.vercel.app/api?username=gustavorcaetano&theme=tokyonight)
-
-![Views](https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge" alt="Views" />
+</p>
 
 ---
 
