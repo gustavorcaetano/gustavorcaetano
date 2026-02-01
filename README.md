@@ -1,12 +1,10 @@
-#  **OLÁ, EU SOU O GUSTAVO RAMOS**
+# **OLÁ, EU SOU O GUSTAVO RAMOS**
 
- **Desenvolvedor Full-Stack em formação**  
- Estudante de Informática do **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP Guarulhos)**
- Apaixonado por design, animações e experiências web criativas  
+**Desenvolvedor Full-Stack em formação** Estudante de Informática do **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP Guarulhos)** Apaixonado por design, animações e experiências web criativas  
 
 ---
 
-###  SOBRE MIM
+### SOBRE MIM
 Sou um desenvolvedor em formação com experiência em **HTML**, **CSS**, **JavaScript**, **PHP** e noções de **Python** e **banco de dados (MySQL e SUPABASE)**.  
 Tenho interesse em unir **criatividade e tecnologia**, criando soluções digitais bem estruturadas e agradáveis de usar.
 
@@ -15,7 +13,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ---
 
-###  TECNOLOGIAS E FERRAMENTAS
+### TECNOLOGIAS E FERRAMENTAS
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,31 +37,30 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ---
 
-###  ESTATÍSTICAS DO **GitHub**
+### ESTATÍSTICAS DO GitHub
+
 <div align="center">
 
 | CONTRIBUIÇÕES & STATUS | RECORDES & CONQUISTAS |
 | :---: | :---: |
-| ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight) |
+| ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight) | ![Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight) |
 
-<p align="center">
-  <img src="https://github-v-contributions.vercel.app/api?username=gustavorcaetano&theme=tokyonight" alt="Calendário 3D">
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge" alt="Views">
-</p>
+![Calendário 3D](https://github-v-contributions.vercel.app/api?username=gustavorcaetano&theme=tokyonight)
+
+![Views](https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-###  ONDE ME ENCONTRAR
- **EMAIL:** gusramoscaetano@gmail.com  
- **LINKEDIN:** [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
- **PORTIFÓLIO:** [Portfólio](https://gustavorcaetano.github.io/meu-portfolio/index.html#)
+### ONDE ME ENCONTRAR
+**EMAIL:** gusramoscaetano@gmail.com  
+**LINKEDIN:** [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+**PORTIFÓLIO:** [Portfólio](https://gustavorcaetano.github.io/meu-portfolio/index.html#)
 
 ---
 
- *"Transformar ideias em experiências digitais é o que me motiva todos os dias."*
+*"Transformar ideias em experiências digitais é o que me motiva todos os dias."*
