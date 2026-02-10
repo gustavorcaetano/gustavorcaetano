@@ -43,7 +43,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?user=gustavorcaetano&layout=compact&theme=tokyonight)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight)
 
