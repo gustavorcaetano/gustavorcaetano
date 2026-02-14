@@ -45,7 +45,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 ### 📊 ESTATÍSTICAS DO GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_id=v2" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight&cache_id=new1" />
 </div>
