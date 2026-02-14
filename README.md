@@ -44,20 +44,19 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ### 📊 ESTATÍSTICAS DO GitHub
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight" />
-</div>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight&column=4&margin-w=15" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge" alt="Views" />
