@@ -57,7 +57,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight&column=4&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight&column=4&margin-w=15&no-bg=true&no-frame=true" />
 </div>
 
 <p align="center">
