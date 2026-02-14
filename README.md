@@ -53,7 +53,7 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight&cache_id=new1" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
