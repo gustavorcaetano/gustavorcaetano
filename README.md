@@ -44,19 +44,21 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ### 📊 ESTATÍSTICAS DO GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_id=new1" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight" />
-</p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight&cache_id=new1" />
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight&cache_id=new1" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight&column=4&margin-w=15&cache_id=new1" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavorcaetano&color=blueviolet&style=for-the-badge" alt="Views" />
