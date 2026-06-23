@@ -44,17 +44,21 @@ Atualmente busco oportunidades para aplicar e aprimorar minhas habilidades no me
 
 ### 📊 ESTATÍSTICAS DO GitHub
 
-<div align="center">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight&cache_id=new1" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavorcaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      <br><br>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavorcaetano&theme=tokyonight&cache_id=new1" />
+    </td>
+    <td width="20"></td>
+    <td align="center" valign="top">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavorcaetano&layout=compact&theme=tokyonight" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gustavorcaetano&theme=tokyonight&column=4&margin-w=15&no-bg=true&no-frame=true" />
